@@ -1,3 +1,9 @@
+Alicacion de Presupuesto y Gasto Semanal creada con React.js 
+
+La aplicacion nos permite agregar diferentes gastos basicos diarios y llevar un presupuesto restante.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
